@@ -1,5 +1,3 @@
-# qualtrics-survey-local-llm-analysis
-
 # Automated Qualtrics Report with LLM Thematic Analysis
 
 This project automates the entire workflow of generating a professional, qualitative report from survey data. It fetches data directly from the Qualtrics API, uses a locally-run Large Language Model (LLM) via LM Studio to perform a sophisticated thematic analysis, and generates a `.docx` report complete with narrative summaries, tables, and an executive summary, which is then automatically emailed to a list of facilitators.
